@@ -1,0 +1,13 @@
+D:\DOT NET Project\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.exe
+D:\DOT NET Project\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.deps.json
+D:\DOT NET Project\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.json
+D:\DOT NET Project\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.dev.json
+D:\DOT NET Project\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.dll
+D:\DOT NET Project\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.pdb
+D:\DOT NET Project\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.AssemblyReference.cache
+D:\DOT NET Project\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfoInputs.cache
+D:\DOT NET Project\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfo.cs
+D:\DOT NET Project\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.dll
+D:\DOT NET Project\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.pdb
+D:\DOT NET Project\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.genruntimeconfig.cache

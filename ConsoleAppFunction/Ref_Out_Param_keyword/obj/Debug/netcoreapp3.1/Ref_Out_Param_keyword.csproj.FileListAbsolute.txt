@@ -1,0 +1,13 @@
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\bin\Debug\netcoreapp3.1\Ref_Out_Param_keyword.exe
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\bin\Debug\netcoreapp3.1\Ref_Out_Param_keyword.deps.json
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\bin\Debug\netcoreapp3.1\Ref_Out_Param_keyword.runtimeconfig.json
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\bin\Debug\netcoreapp3.1\Ref_Out_Param_keyword.runtimeconfig.dev.json
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\bin\Debug\netcoreapp3.1\Ref_Out_Param_keyword.dll
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\bin\Debug\netcoreapp3.1\Ref_Out_Param_keyword.pdb
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\obj\Debug\netcoreapp3.1\Ref_Out_Param_keyword.csproj.AssemblyReference.cache
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\obj\Debug\netcoreapp3.1\Ref_Out_Param_keyword.AssemblyInfoInputs.cache
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\obj\Debug\netcoreapp3.1\Ref_Out_Param_keyword.AssemblyInfo.cs
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\obj\Debug\netcoreapp3.1\Ref_Out_Param_keyword.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\obj\Debug\netcoreapp3.1\Ref_Out_Param_keyword.dll
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\obj\Debug\netcoreapp3.1\Ref_Out_Param_keyword.pdb
+D:\DOT NET Project\ConsoleAppFunction\Ref_Out_Param_keyword\obj\Debug\netcoreapp3.1\Ref_Out_Param_keyword.genruntimeconfig.cache

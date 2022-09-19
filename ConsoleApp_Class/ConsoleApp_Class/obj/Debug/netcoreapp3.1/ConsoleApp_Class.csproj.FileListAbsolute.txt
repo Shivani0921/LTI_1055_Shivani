@@ -1,0 +1,13 @@
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\bin\Debug\netcoreapp3.1\ConsoleApp_Class.exe
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\bin\Debug\netcoreapp3.1\ConsoleApp_Class.deps.json
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\bin\Debug\netcoreapp3.1\ConsoleApp_Class.runtimeconfig.json
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\bin\Debug\netcoreapp3.1\ConsoleApp_Class.runtimeconfig.dev.json
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\bin\Debug\netcoreapp3.1\ConsoleApp_Class.dll
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\bin\Debug\netcoreapp3.1\ConsoleApp_Class.pdb
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\obj\Debug\netcoreapp3.1\ConsoleApp_Class.csproj.AssemblyReference.cache
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\obj\Debug\netcoreapp3.1\ConsoleApp_Class.AssemblyInfoInputs.cache
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\obj\Debug\netcoreapp3.1\ConsoleApp_Class.AssemblyInfo.cs
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\obj\Debug\netcoreapp3.1\ConsoleApp_Class.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\obj\Debug\netcoreapp3.1\ConsoleApp_Class.dll
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\obj\Debug\netcoreapp3.1\ConsoleApp_Class.pdb
+D:\DOT NET Project\ConsoleApp_Class\ConsoleApp_Class\obj\Debug\netcoreapp3.1\ConsoleApp_Class.genruntimeconfig.cache

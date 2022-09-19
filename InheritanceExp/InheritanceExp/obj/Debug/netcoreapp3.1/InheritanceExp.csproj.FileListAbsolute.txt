@@ -1,0 +1,13 @@
+D:\DOT NET Project\InheritanceExp\InheritanceExp\bin\Debug\netcoreapp3.1\InheritanceExp.exe
+D:\DOT NET Project\InheritanceExp\InheritanceExp\bin\Debug\netcoreapp3.1\InheritanceExp.deps.json
+D:\DOT NET Project\InheritanceExp\InheritanceExp\bin\Debug\netcoreapp3.1\InheritanceExp.runtimeconfig.json
+D:\DOT NET Project\InheritanceExp\InheritanceExp\bin\Debug\netcoreapp3.1\InheritanceExp.runtimeconfig.dev.json
+D:\DOT NET Project\InheritanceExp\InheritanceExp\bin\Debug\netcoreapp3.1\InheritanceExp.dll
+D:\DOT NET Project\InheritanceExp\InheritanceExp\bin\Debug\netcoreapp3.1\InheritanceExp.pdb
+D:\DOT NET Project\InheritanceExp\InheritanceExp\obj\Debug\netcoreapp3.1\InheritanceExp.csproj.AssemblyReference.cache
+D:\DOT NET Project\InheritanceExp\InheritanceExp\obj\Debug\netcoreapp3.1\InheritanceExp.AssemblyInfoInputs.cache
+D:\DOT NET Project\InheritanceExp\InheritanceExp\obj\Debug\netcoreapp3.1\InheritanceExp.AssemblyInfo.cs
+D:\DOT NET Project\InheritanceExp\InheritanceExp\obj\Debug\netcoreapp3.1\InheritanceExp.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\InheritanceExp\InheritanceExp\obj\Debug\netcoreapp3.1\InheritanceExp.dll
+D:\DOT NET Project\InheritanceExp\InheritanceExp\obj\Debug\netcoreapp3.1\InheritanceExp.pdb
+D:\DOT NET Project\InheritanceExp\InheritanceExp\obj\Debug\netcoreapp3.1\InheritanceExp.genruntimeconfig.cache

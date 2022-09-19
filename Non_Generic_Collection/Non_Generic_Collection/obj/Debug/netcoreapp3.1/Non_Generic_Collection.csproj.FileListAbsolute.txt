@@ -1,0 +1,13 @@
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\netcoreapp3.1\Non_Generic_Collection.exe
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\netcoreapp3.1\Non_Generic_Collection.deps.json
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\netcoreapp3.1\Non_Generic_Collection.runtimeconfig.json
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\netcoreapp3.1\Non_Generic_Collection.runtimeconfig.dev.json
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\netcoreapp3.1\Non_Generic_Collection.dll
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\bin\Debug\netcoreapp3.1\Non_Generic_Collection.pdb
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\netcoreapp3.1\Non_Generic_Collection.csproj.AssemblyReference.cache
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\netcoreapp3.1\Non_Generic_Collection.AssemblyInfoInputs.cache
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\netcoreapp3.1\Non_Generic_Collection.AssemblyInfo.cs
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\netcoreapp3.1\Non_Generic_Collection.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\netcoreapp3.1\Non_Generic_Collection.dll
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\netcoreapp3.1\Non_Generic_Collection.pdb
+D:\DOT NET Project\Non_Generic_Collection\Non_Generic_Collection\obj\Debug\netcoreapp3.1\Non_Generic_Collection.genruntimeconfig.cache

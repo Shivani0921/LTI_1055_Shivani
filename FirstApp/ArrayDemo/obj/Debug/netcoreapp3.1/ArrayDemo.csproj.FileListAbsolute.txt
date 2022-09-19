@@ -1,0 +1,13 @@
+D:\DOT NET Project\FirstApp\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.exe
+D:\DOT NET Project\FirstApp\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.deps.json
+D:\DOT NET Project\FirstApp\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.json
+D:\DOT NET Project\FirstApp\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.dev.json
+D:\DOT NET Project\FirstApp\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.dll
+D:\DOT NET Project\FirstApp\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.pdb
+D:\DOT NET Project\FirstApp\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csproj.AssemblyReference.cache
+D:\DOT NET Project\FirstApp\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfoInputs.cache
+D:\DOT NET Project\FirstApp\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfo.cs
+D:\DOT NET Project\FirstApp\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\FirstApp\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.dll
+D:\DOT NET Project\FirstApp\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.pdb
+D:\DOT NET Project\FirstApp\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.genruntimeconfig.cache

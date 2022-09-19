@@ -1,0 +1,13 @@
+D:\DOT NET Project\SecondApp\bin\Debug\netcoreapp3.1\SecondApp.exe
+D:\DOT NET Project\SecondApp\bin\Debug\netcoreapp3.1\SecondApp.deps.json
+D:\DOT NET Project\SecondApp\bin\Debug\netcoreapp3.1\SecondApp.runtimeconfig.json
+D:\DOT NET Project\SecondApp\bin\Debug\netcoreapp3.1\SecondApp.runtimeconfig.dev.json
+D:\DOT NET Project\SecondApp\bin\Debug\netcoreapp3.1\SecondApp.dll
+D:\DOT NET Project\SecondApp\bin\Debug\netcoreapp3.1\SecondApp.pdb
+D:\DOT NET Project\SecondApp\obj\Debug\netcoreapp3.1\SecondApp.csprojAssemblyReference.cache
+D:\DOT NET Project\SecondApp\obj\Debug\netcoreapp3.1\SecondApp.AssemblyInfoInputs.cache
+D:\DOT NET Project\SecondApp\obj\Debug\netcoreapp3.1\SecondApp.AssemblyInfo.cs
+D:\DOT NET Project\SecondApp\obj\Debug\netcoreapp3.1\SecondApp.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\SecondApp\obj\Debug\netcoreapp3.1\SecondApp.dll
+D:\DOT NET Project\SecondApp\obj\Debug\netcoreapp3.1\SecondApp.pdb
+D:\DOT NET Project\SecondApp\obj\Debug\netcoreapp3.1\SecondApp.genruntimeconfig.cache

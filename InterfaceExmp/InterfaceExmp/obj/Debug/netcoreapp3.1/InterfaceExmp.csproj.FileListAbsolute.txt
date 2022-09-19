@@ -1,0 +1,13 @@
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\bin\Debug\netcoreapp3.1\InterfaceExmp.exe
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\bin\Debug\netcoreapp3.1\InterfaceExmp.deps.json
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\bin\Debug\netcoreapp3.1\InterfaceExmp.runtimeconfig.json
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\bin\Debug\netcoreapp3.1\InterfaceExmp.runtimeconfig.dev.json
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\bin\Debug\netcoreapp3.1\InterfaceExmp.dll
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\bin\Debug\netcoreapp3.1\InterfaceExmp.pdb
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\obj\Debug\netcoreapp3.1\InterfaceExmp.csproj.AssemblyReference.cache
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\obj\Debug\netcoreapp3.1\InterfaceExmp.AssemblyInfoInputs.cache
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\obj\Debug\netcoreapp3.1\InterfaceExmp.AssemblyInfo.cs
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\obj\Debug\netcoreapp3.1\InterfaceExmp.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\obj\Debug\netcoreapp3.1\InterfaceExmp.dll
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\obj\Debug\netcoreapp3.1\InterfaceExmp.pdb
+D:\DOT NET Project\InterfaceExmp\InterfaceExmp\obj\Debug\netcoreapp3.1\InterfaceExmp.genruntimeconfig.cache

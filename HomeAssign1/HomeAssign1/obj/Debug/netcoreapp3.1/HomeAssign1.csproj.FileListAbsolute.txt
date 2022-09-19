@@ -1,0 +1,13 @@
+D:\DOT NET Project\HomeAssign1\HomeAssign1\bin\Debug\netcoreapp3.1\HomeAssign1.exe
+D:\DOT NET Project\HomeAssign1\HomeAssign1\bin\Debug\netcoreapp3.1\HomeAssign1.deps.json
+D:\DOT NET Project\HomeAssign1\HomeAssign1\bin\Debug\netcoreapp3.1\HomeAssign1.runtimeconfig.json
+D:\DOT NET Project\HomeAssign1\HomeAssign1\bin\Debug\netcoreapp3.1\HomeAssign1.runtimeconfig.dev.json
+D:\DOT NET Project\HomeAssign1\HomeAssign1\bin\Debug\netcoreapp3.1\HomeAssign1.dll
+D:\DOT NET Project\HomeAssign1\HomeAssign1\bin\Debug\netcoreapp3.1\HomeAssign1.pdb
+D:\DOT NET Project\HomeAssign1\HomeAssign1\obj\Debug\netcoreapp3.1\HomeAssign1.csproj.AssemblyReference.cache
+D:\DOT NET Project\HomeAssign1\HomeAssign1\obj\Debug\netcoreapp3.1\HomeAssign1.AssemblyInfoInputs.cache
+D:\DOT NET Project\HomeAssign1\HomeAssign1\obj\Debug\netcoreapp3.1\HomeAssign1.AssemblyInfo.cs
+D:\DOT NET Project\HomeAssign1\HomeAssign1\obj\Debug\netcoreapp3.1\HomeAssign1.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\HomeAssign1\HomeAssign1\obj\Debug\netcoreapp3.1\HomeAssign1.dll
+D:\DOT NET Project\HomeAssign1\HomeAssign1\obj\Debug\netcoreapp3.1\HomeAssign1.pdb
+D:\DOT NET Project\HomeAssign1\HomeAssign1\obj\Debug\netcoreapp3.1\HomeAssign1.genruntimeconfig.cache

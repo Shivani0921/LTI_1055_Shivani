@@ -1,0 +1,13 @@
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\bin\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.exe
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\bin\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.deps.json
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\bin\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.runtimeconfig.json
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\bin\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.runtimeconfig.dev.json
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\bin\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.dll
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\bin\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.pdb
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\obj\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.csproj.AssemblyReference.cache
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\obj\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.AssemblyInfoInputs.cache
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\obj\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.AssemblyInfo.cs
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\obj\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\obj\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.dll
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\obj\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.pdb
+D:\DOT NET Project\CRUD_on_InMemory_Collection\CRUD_on_InMemory_Collection\obj\Debug\netcoreapp3.1\CRUD_on_InMemory_Collection.genruntimeconfig.cache

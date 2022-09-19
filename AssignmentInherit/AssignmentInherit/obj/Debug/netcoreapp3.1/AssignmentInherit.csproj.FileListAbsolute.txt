@@ -1,0 +1,13 @@
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\obj\Debug\netcoreapp3.1\AssignmentInherit.csproj.AssemblyReference.cache
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\obj\Debug\netcoreapp3.1\AssignmentInherit.AssemblyInfoInputs.cache
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\obj\Debug\netcoreapp3.1\AssignmentInherit.AssemblyInfo.cs
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\obj\Debug\netcoreapp3.1\AssignmentInherit.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\bin\Debug\netcoreapp3.1\AssignmentInherit.exe
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\bin\Debug\netcoreapp3.1\AssignmentInherit.deps.json
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\bin\Debug\netcoreapp3.1\AssignmentInherit.runtimeconfig.json
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\bin\Debug\netcoreapp3.1\AssignmentInherit.runtimeconfig.dev.json
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\bin\Debug\netcoreapp3.1\AssignmentInherit.dll
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\bin\Debug\netcoreapp3.1\AssignmentInherit.pdb
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\obj\Debug\netcoreapp3.1\AssignmentInherit.dll
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\obj\Debug\netcoreapp3.1\AssignmentInherit.pdb
+D:\DOT NET Project\AssignmentInherit\AssignmentInherit\obj\Debug\netcoreapp3.1\AssignmentInherit.genruntimeconfig.cache

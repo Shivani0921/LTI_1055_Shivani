@@ -1,0 +1,13 @@
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\bin\Debug\netcoreapp3.1\Multilevelinhert.exe
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\bin\Debug\netcoreapp3.1\Multilevelinhert.deps.json
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\bin\Debug\netcoreapp3.1\Multilevelinhert.runtimeconfig.json
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\bin\Debug\netcoreapp3.1\Multilevelinhert.runtimeconfig.dev.json
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\bin\Debug\netcoreapp3.1\Multilevelinhert.dll
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\bin\Debug\netcoreapp3.1\Multilevelinhert.pdb
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\obj\Debug\netcoreapp3.1\Multilevelinhert.csproj.AssemblyReference.cache
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\obj\Debug\netcoreapp3.1\Multilevelinhert.AssemblyInfoInputs.cache
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\obj\Debug\netcoreapp3.1\Multilevelinhert.AssemblyInfo.cs
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\obj\Debug\netcoreapp3.1\Multilevelinhert.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\obj\Debug\netcoreapp3.1\Multilevelinhert.dll
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\obj\Debug\netcoreapp3.1\Multilevelinhert.pdb
+D:\DOT NET Project\InheritanceExp\Multilevelinhert\obj\Debug\netcoreapp3.1\Multilevelinhert.genruntimeconfig.cache

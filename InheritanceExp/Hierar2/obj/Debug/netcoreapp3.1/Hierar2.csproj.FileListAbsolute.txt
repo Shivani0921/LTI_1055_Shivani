@@ -1,0 +1,13 @@
+D:\DOT NET Project\InheritanceExp\Hierar2\bin\Debug\netcoreapp3.1\Hierar2.exe
+D:\DOT NET Project\InheritanceExp\Hierar2\bin\Debug\netcoreapp3.1\Hierar2.deps.json
+D:\DOT NET Project\InheritanceExp\Hierar2\bin\Debug\netcoreapp3.1\Hierar2.runtimeconfig.json
+D:\DOT NET Project\InheritanceExp\Hierar2\bin\Debug\netcoreapp3.1\Hierar2.runtimeconfig.dev.json
+D:\DOT NET Project\InheritanceExp\Hierar2\bin\Debug\netcoreapp3.1\Hierar2.dll
+D:\DOT NET Project\InheritanceExp\Hierar2\bin\Debug\netcoreapp3.1\Hierar2.pdb
+D:\DOT NET Project\InheritanceExp\Hierar2\obj\Debug\netcoreapp3.1\Hierar2.csproj.AssemblyReference.cache
+D:\DOT NET Project\InheritanceExp\Hierar2\obj\Debug\netcoreapp3.1\Hierar2.AssemblyInfoInputs.cache
+D:\DOT NET Project\InheritanceExp\Hierar2\obj\Debug\netcoreapp3.1\Hierar2.AssemblyInfo.cs
+D:\DOT NET Project\InheritanceExp\Hierar2\obj\Debug\netcoreapp3.1\Hierar2.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\InheritanceExp\Hierar2\obj\Debug\netcoreapp3.1\Hierar2.dll
+D:\DOT NET Project\InheritanceExp\Hierar2\obj\Debug\netcoreapp3.1\Hierar2.pdb
+D:\DOT NET Project\InheritanceExp\Hierar2\obj\Debug\netcoreapp3.1\Hierar2.genruntimeconfig.cache

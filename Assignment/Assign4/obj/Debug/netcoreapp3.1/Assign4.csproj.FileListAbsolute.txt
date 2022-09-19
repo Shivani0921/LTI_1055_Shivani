@@ -1,0 +1,13 @@
+D:\DOT NET Project\Assignment\Assign4\bin\Debug\netcoreapp3.1\Assign4.exe
+D:\DOT NET Project\Assignment\Assign4\bin\Debug\netcoreapp3.1\Assign4.deps.json
+D:\DOT NET Project\Assignment\Assign4\bin\Debug\netcoreapp3.1\Assign4.runtimeconfig.json
+D:\DOT NET Project\Assignment\Assign4\bin\Debug\netcoreapp3.1\Assign4.runtimeconfig.dev.json
+D:\DOT NET Project\Assignment\Assign4\bin\Debug\netcoreapp3.1\Assign4.dll
+D:\DOT NET Project\Assignment\Assign4\bin\Debug\netcoreapp3.1\Assign4.pdb
+D:\DOT NET Project\Assignment\Assign4\obj\Debug\netcoreapp3.1\Assign4.csproj.AssemblyReference.cache
+D:\DOT NET Project\Assignment\Assign4\obj\Debug\netcoreapp3.1\Assign4.AssemblyInfoInputs.cache
+D:\DOT NET Project\Assignment\Assign4\obj\Debug\netcoreapp3.1\Assign4.AssemblyInfo.cs
+D:\DOT NET Project\Assignment\Assign4\obj\Debug\netcoreapp3.1\Assign4.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\Assignment\Assign4\obj\Debug\netcoreapp3.1\Assign4.dll
+D:\DOT NET Project\Assignment\Assign4\obj\Debug\netcoreapp3.1\Assign4.pdb
+D:\DOT NET Project\Assignment\Assign4\obj\Debug\netcoreapp3.1\Assign4.genruntimeconfig.cache

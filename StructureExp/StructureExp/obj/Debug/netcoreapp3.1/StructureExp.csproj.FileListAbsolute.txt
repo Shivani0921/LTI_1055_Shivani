@@ -1,0 +1,13 @@
+D:\DOT NET Project\StructureExp\StructureExp\bin\Debug\netcoreapp3.1\StructureExp.exe
+D:\DOT NET Project\StructureExp\StructureExp\bin\Debug\netcoreapp3.1\StructureExp.deps.json
+D:\DOT NET Project\StructureExp\StructureExp\bin\Debug\netcoreapp3.1\StructureExp.runtimeconfig.json
+D:\DOT NET Project\StructureExp\StructureExp\bin\Debug\netcoreapp3.1\StructureExp.runtimeconfig.dev.json
+D:\DOT NET Project\StructureExp\StructureExp\bin\Debug\netcoreapp3.1\StructureExp.dll
+D:\DOT NET Project\StructureExp\StructureExp\bin\Debug\netcoreapp3.1\StructureExp.pdb
+D:\DOT NET Project\StructureExp\StructureExp\obj\Debug\netcoreapp3.1\StructureExp.csproj.AssemblyReference.cache
+D:\DOT NET Project\StructureExp\StructureExp\obj\Debug\netcoreapp3.1\StructureExp.AssemblyInfoInputs.cache
+D:\DOT NET Project\StructureExp\StructureExp\obj\Debug\netcoreapp3.1\StructureExp.AssemblyInfo.cs
+D:\DOT NET Project\StructureExp\StructureExp\obj\Debug\netcoreapp3.1\StructureExp.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\StructureExp\StructureExp\obj\Debug\netcoreapp3.1\StructureExp.dll
+D:\DOT NET Project\StructureExp\StructureExp\obj\Debug\netcoreapp3.1\StructureExp.pdb
+D:\DOT NET Project\StructureExp\StructureExp\obj\Debug\netcoreapp3.1\StructureExp.genruntimeconfig.cache

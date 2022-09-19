@@ -1,0 +1,13 @@
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\bin\Debug\netcoreapp3.1\LINQ_Exp.exe
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\bin\Debug\netcoreapp3.1\LINQ_Exp.deps.json
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\bin\Debug\netcoreapp3.1\LINQ_Exp.runtimeconfig.json
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\bin\Debug\netcoreapp3.1\LINQ_Exp.runtimeconfig.dev.json
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\bin\Debug\netcoreapp3.1\LINQ_Exp.dll
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\bin\Debug\netcoreapp3.1\LINQ_Exp.pdb
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\obj\Debug\netcoreapp3.1\LINQ_Exp.csproj.AssemblyReference.cache
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\obj\Debug\netcoreapp3.1\LINQ_Exp.AssemblyInfoInputs.cache
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\obj\Debug\netcoreapp3.1\LINQ_Exp.AssemblyInfo.cs
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\obj\Debug\netcoreapp3.1\LINQ_Exp.csproj.CoreCompileInputs.cache
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\obj\Debug\netcoreapp3.1\LINQ_Exp.dll
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\obj\Debug\netcoreapp3.1\LINQ_Exp.pdb
+D:\DOT NET Project\LINQ_Exp\LINQ_Exp\obj\Debug\netcoreapp3.1\LINQ_Exp.genruntimeconfig.cache
